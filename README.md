@@ -6,7 +6,8 @@ This is a Node.js tool to encrypt and decrypt resource packs.
 
 1. Please download the file as a zip.
 2. Unzip the file.
-3. Please execute node index.js in the terminal.
+3. Please execute ```npm install``` in the terminal.
+4. Please execute ```node index.js``` in the terminal.
 * If you haven't installed Node.js, please install it.
 
 If you have any questions, feel free to ask them [here(LINE OpenChat)](https://line.me/ti/g2/RSb0ymAKXxOsPaFCxAOtHM8tT8CpyU43N9dZNg?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)!
